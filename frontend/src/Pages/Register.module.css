@@ -1,0 +1,25 @@
+.InputBox {
+ padding: 0px;
+  background-color: #f4f4f4;
+  border: transparent;
+  outline: none;
+  resize: none;
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  background-color: #eee;
+}
+Input:focus{
+    border: none;
+}
+.FormLabelDiv {
+  font-size: 14px;
+  font-weight: 700;
+}
+.InputBox{
+    width: 100%;
+    height: 56px;
+    padding: 10px 10px 10px; 
+    border-radius: 8px;
+}
